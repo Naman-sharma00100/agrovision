@@ -1,0 +1,2479 @@
+.fiLinkedin.fiLinkedin {
+  left: 1098px;
+  top: 1939.7148px;
+  width: 21px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 2090px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle380 {
+  position: absolute;
+  left: 853px;
+  top: 1582px;
+  width: 231px;
+  height: 68px;
+  border-radius: 10px;
+  background-color: #000;
+}
+.rectangle338 {
+  position: absolute;
+  left: 26px;
+  top: 29px;
+  width: 1383px;
+  height: 1462px;
+  background-color: #f6f6f6;
+}
+.rectangle339 {
+  position: absolute;
+  left: 356px;
+  top: 141px;
+  width: 1020px;
+  height: 87px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: -3px -1px 20px 0px #00000017;
+}
+.rectangle340 {
+  position: absolute;
+  left: 59px;
+  top: 141px;
+  width: 265px;
+  height: 774px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 2px 4px 30px 0px #0000001a;
+}
+.ellipse77 {
+  position: absolute;
+  left: 74px;
+  top: 162px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.natalya {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 176px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dashboard {
+  color: #3f08dd;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 335px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.notification {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 393px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jobs {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 451px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jobsApplies {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 509px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.updatedJobs {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 567px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.schedule {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 625px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chatting {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 683px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.setting {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 741px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu {
+  color: #949494;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81px;
+  top: 263px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle342 {
+  position: absolute;
+  left: 84px;
+  top: 329px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #7a4cfc;
+}
+.rectangle343 {
+  position: absolute;
+  left: 84px;
+  top: 387px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #ff5a5a;
+}
+.rectangle344 {
+  position: absolute;
+  left: 84px;
+  top: 445px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #82dd7a;
+}
+.rectangle345 {
+  position: absolute;
+  left: 84px;
+  top: 506px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #89affc;
+}
+.rectangle346 {
+  position: absolute;
+  left: 84px;
+  top: 561px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #b5e369;
+}
+.rectangle347 {
+  position: absolute;
+  left: 84px;
+  top: 621px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #fe983a;
+}
+.rectangle348 {
+  position: absolute;
+  left: 84px;
+  top: 677px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #5ed29b;
+}
+.rectangle349 {
+  position: absolute;
+  left: 84px;
+  top: 735px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #000;
+}
+.rectangle350 {
+  position: absolute;
+  left: 92px;
+  top: 336px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle351 {
+  position: absolute;
+  left: 102px;
+  top: 336px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle352 {
+  position: absolute;
+  left: 92px;
+  top: 346px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle353 {
+  position: absolute;
+  left: 102px;
+  top: 346px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle354 {
+  position: absolute;
+  left: 314px;
+  top: 325px;
+  width: 10px;
+  height: 42px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse78 {
+  position: absolute;
+  left: 105px;
+  top: 495px;
+  width: 23px;
+  height: 23px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+._5 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 113px;
+  top: 497px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.bellSimple {
+  position: absolute;
+  left: 90px;
+  top: 393px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.swatches {
+  position: absolute;
+  left: 91px;
+  top: 451px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.swatches2 {
+  position: absolute;
+  left: 91px;
+  top: 512px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.chatCircleText {
+  position: absolute;
+  left: 90px;
+  top: 683px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix {
+  position: absolute;
+  left: 90px;
+  top: 741px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.headset {
+  position: absolute;
+  left: 90px;
+  top: 627px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.userCircleGear {
+  position: absolute;
+  left: 90px;
+  top: 567px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.magnifyingGlass {
+  position: absolute;
+  left: 381px;
+  top: 171px;
+  width: 26px;
+  height: 26px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.overview {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 356px;
+  top: 265px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle356 {
+  position: absolute;
+  left: 356px;
+  top: 314px;
+  width: 584px;
+  height: 654px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px -2px 31px 0px #00000024;
+}
+.rectangle358 {
+  position: absolute;
+  left: 356px;
+  top: 988px;
+  width: 1015px;
+  height: 446px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px -2px 31px 0px #00000024;
+}
+.rectangle359 {
+  position: absolute;
+  left: 61px;
+  top: 938px;
+  width: 265px;
+  height: 496px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px -2px 31px 0px #00000024;
+}
+.rectangle357 {
+  position: absolute;
+  left: 963px;
+  top: 316px;
+  width: 406px;
+  height: 654px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px -2px 31px 0px #00000024;
+}
+.loreumIpusm {
+  color: #000;
+  font-size: 24px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 382px;
+  top: 345px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loreumIpusm2 {
+  color: #7a4cfc;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 382px;
+  top: 397px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loreumIpusm3 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 494px;
+  top: 397px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loreumIpusm4 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 606px;
+  top: 397px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line2 {
+  position: absolute;
+  left: 413px;
+  top: 427px;
+  width: 25px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 1px #7a4cfc;
+}
+.loremIpsumDolorSitAmetConsecte {
+  position: absolute;
+  left: 386px;
+  top: 450px;
+  width: 510px;
+  height: 117px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.searchKeywordJobsSales {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 438px;
+  top: 177px;
+  width: 188px;
+  height: 14px;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte2 {
+  position: absolute;
+  left: 377px;
+  top: 582px;
+  width: 510px;
+  height: 124px;
+  flex-direction: column;
+}
+.list {
+  font-size: 14px;
+}
+.list ::marker {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle362 {
+  position: absolute;
+  left: 385px;
+  top: 751px;
+  width: 168px;
+  height: 164px;
+  border-radius: 22px;
+  background-color: #7a4cfc;
+  box-shadow: 2px 2px 15px 0px #00000021;
+}
+.rectangle364 {
+  position: absolute;
+  left: 572px;
+  top: 751px;
+  width: 168px;
+  height: 164px;
+  border-radius: 22px;
+  background-color: #fff;
+  box-shadow: 2px 2px 15px 0px #00000021;
+}
+.rectangle363 {
+  position: absolute;
+  left: 752px;
+  top: 751px;
+  width: 168px;
+  height: 164px;
+  border-radius: 22px;
+  background-color: #fff;
+  box-shadow: 2px 2px 15px 0px #00000021;
+}
+.chatCenteredText {
+  position: absolute;
+  left: 1259px;
+  top: 169px;
+  width: 32px;
+  height: 32px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.bell {
+  position: absolute;
+  left: 1207px;
+  top: 169px;
+  width: 32px;
+  height: 32px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.userCircle {
+  position: absolute;
+  left: 1311px;
+  top: 169px;
+  width: 32px;
+  height: 32px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.company {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 1002px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.resume {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 1073px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.document {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 1144px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.statistics {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 1215px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.activity {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 1286px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle365 {
+  position: absolute;
+  left: 84px;
+  top: 996px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #54d206;
+}
+.rectangle366 {
+  position: absolute;
+  left: 84px;
+  top: 1067px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #f4bb28;
+}
+.rectangle367 {
+  position: absolute;
+  left: 84px;
+  top: 1138px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #f26add;
+}
+.rectangle370 {
+  position: absolute;
+  left: 84px;
+  top: 1209px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #fd3f6c;
+}
+.rectangle371 {
+  position: absolute;
+  left: 84px;
+  top: 1280px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #23e1a8;
+}
+.gearSix2 {
+  position: absolute;
+  left: 90px;
+  top: 1002px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix3 {
+  position: absolute;
+  left: 90px;
+  top: 1073px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix4 {
+  position: absolute;
+  left: 90px;
+  top: 1144px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix5 {
+  position: absolute;
+  left: 90px;
+  top: 1215px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix6 {
+  position: absolute;
+  left: 90px;
+  top: 1286px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.details {
+  color: #949494;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 84px;
+  top: 954px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle368 {
+  position: absolute;
+  left: 356px;
+  top: 298px;
+  width: 34px;
+  height: 2px;
+  background-color: #ff0f0f;
+}
+._22341 {
+  position: absolute;
+  left: 359px;
+  top: 993px;
+  width: 1009px;
+  height: 429px;
+  background-image:/* webpackIgnore: true */ url('assets/_22341.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._56 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 415px;
+  top: 795px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._10 {
+  color: #575757;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 795px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._150 {
+  color: #575757;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 763px;
+  top: 795px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.applicationSent {
+  color: #fff;
+  font-size: 14px;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 415px;
+  top: 866px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.interviewSchedule {
+  color: #575757;
+  font-size: 14px;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 866px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.profileVisited {
+  color: #575757;
+  font-size: 14px;
+  font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 763px;
+  top: 866px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse79 {
+  position: absolute;
+  left: 1113px;
+  top: 359px;
+  width: 109px;
+  height: 109px;
+  overflow: visible;
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse80 {
+  position: absolute;
+  left: 1123px;
+  top: 369px;
+  width: 89px;
+  height: 89px;
+  overflow: visible;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.nataylaHerington {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1072px;
+  top: 487px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.uIUXDESIGNER {
+  color: #756f6f;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1111px;
+  top: 530px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seeAll {
+  color: #3f08dd;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1274px;
+  top: 718px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lastActivites {
+  color: #101010;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 993px;
+  top: 714px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse82 {
+  position: absolute;
+  left: 1118px;
+  top: 578px;
+  width: 100px;
+  height: 100px;
+  overflow: visible;
+}
+.icon25 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse91 {
+  position: absolute;
+  left: 998px;
+  top: 578px;
+  width: 100px;
+  height: 100px;
+  overflow: visible;
+}
+.icon26 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse88 {
+  position: absolute;
+  left: 1233px;
+  top: 578px;
+  width: 100px;
+  height: 100px;
+  overflow: visible;
+}
+.icon27 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse87 {
+  position: absolute;
+  left: 1168px;
+  top: 583px;
+  width: 45px;
+  height: 90px;
+  overflow: visible;
+}
+.icon28 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse92 {
+  position: absolute;
+  left: 1048px;
+  top: 583px;
+  width: 45px;
+  height: 90px;
+  overflow: visible;
+}
+.icon29 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse89 {
+  position: absolute;
+  left: 1283px;
+  top: 583px;
+  width: 45px;
+  height: 90px;
+  overflow: visible;
+}
+.icon30 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse85 {
+  position: absolute;
+  left: 1135px;
+  top: 594px;
+  width: 65px;
+  height: 66px;
+  overflow: visible;
+}
+.icon31 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse93 {
+  position: absolute;
+  left: 1015px;
+  top: 594px;
+  width: 65px;
+  height: 66px;
+  overflow: visible;
+}
+.icon32 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse94 {
+  position: absolute;
+  left: 1011px;
+  top: 773px;
+  width: 51px;
+  height: 52px;
+  overflow: visible;
+}
+.icon33 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse95 {
+  position: absolute;
+  left: 1011px;
+  top: 860px;
+  width: 51px;
+  height: 52px;
+  overflow: visible;
+}
+.icon34 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse90 {
+  position: absolute;
+  left: 1250px;
+  top: 594px;
+  width: 65px;
+  height: 66px;
+  overflow: visible;
+}
+.icon35 {
+  width: 100%;
+  height: 100%;
+}
+._50 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1151px;
+  top: 616px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._502 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1031px;
+  top: 616px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._503 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1266px;
+  top: 616px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle369 {
+  position: absolute;
+  left: 1175px;
+  top: 162px;
+  width: 2px;
+  height: 49px;
+  background-color: #c7c7c7;
+}
+.rectangle372 {
+  position: absolute;
+  left: 993px;
+  top: 762px;
+  width: 329px;
+  height: 74px;
+  outline: solid 1px #ac9e9e;
+  outline-offset: -1px;
+  border-radius: 12px;
+}
+.rectangle373 {
+  position: absolute;
+  left: 993px;
+  top: 849px;
+  width: 329px;
+  height: 74px;
+  outline: solid 1px #ac9e9e;
+  outline-offset: -1px;
+  border-radius: 12px;
+}
+.yourApplicationHasAccept3Compa {
+  position: absolute;
+  left: 1075px;
+  top: 780px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #878787;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #3e3b3b;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #3e3b3b;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.yourApplicationHasAccept3Compa2 {
+  position: absolute;
+  left: 1075px;
+  top: 867px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #878787;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #3e3b3b;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #3e3b3b;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.lOGOUT {
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 84px;
+  top: 1364px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 112px;
+  background-color: #fff;
+  box-shadow: 0px 2px 2px 0px #00000040;
+}
+.cOMPANYLOGO {
+  color: #000;
+  font-size: 18px;
+  font-family: Open Sans Hebrew, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 67px;
+  top: 42px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.home {
+  color: #486aae;
+  font-size: 18px;
+  font-family: Kodchasan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 746px;
+  top: 49px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jobs2 {
+  color: #000;
+  font-size: 18px;
+  font-family: Kodchasan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 862px;
+  top: 49px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.companies {
+  color: #000;
+  font-size: 18px;
+  font-family: Kodchasan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 953px;
+  top: 49px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.services {
+  color: #000;
+  font-size: 18px;
+  font-family: Kodchasan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1099px;
+  top: 49px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle69 {
+  position: absolute;
+  left: 1px;
+  top: 1733px;
+  width: 1438px;
+  height: 357px;
+  background-color: #fff;
+  background-image: linear-gradient(96.9deg, #ffffff8a 0%, #ffffff1a 100%),
+    /* webpackIgnore: true */ url('assets/rectangle69.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto, cover;
+}
+.weDeliverSolutionsThatWorkAtCo {
+  position: absolute;
+  left: 87px;
+  top: 1813px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock8 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 3px;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 3px;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 3px;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 3px;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.websiteDeignDevelopmentMobileD {
+  position: absolute;
+  left: 480px;
+  top: 1815.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock18 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock19 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock20 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock21 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.sERVICES {
+  color: #486aae;
+  font-size: 18px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 480px;
+  top: 1783.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.uSEFULLLINKS {
+  color: #486aae;
+  font-size: 18px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1783.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cONTACTS {
+  color: #486aae;
+  font-size: 18px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 995px;
+  top: 1783.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.portfolioSolutionsAboutUsCaree {
+  position: absolute;
+  left: 742px;
+  top: 1815.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock22 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock23 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock24 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock25 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock26 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock27 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock28 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock29 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock30 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock31 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock32 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.addressIndiaSectorXXRoadViaXMa {
+  position: absolute;
+  left: 995px;
+  top: 1815.7148px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock33 {
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock34 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock35 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock36 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock37 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock38 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.ellipse31 {
+  position: absolute;
+  left: 995px;
+  top: 1933.7148px;
+  width: 33px;
+  height: 33px;
+  overflow: visible;
+}
+.icon36 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse32 {
+  position: absolute;
+  left: 1043px;
+  top: 1933.7148px;
+  width: 33px;
+  height: 33px;
+  overflow: visible;
+}
+.icon37 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse33 {
+  position: absolute;
+  left: 1091px;
+  top: 1933.7148px;
+  width: 33px;
+  height: 33px;
+  overflow: visible;
+}
+.icon38 {
+  width: 100%;
+  height: 100%;
+}
+.instagramLogo {
+  position: absolute;
+  left: 1000.4839px;
+  top: 1939.7148px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon39 {
+  width: 100%;
+  height: 100%;
+}
+.facebookLogo {
+  position: absolute;
+  left: 1048.4839px;
+  top: 1939.7148px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon40 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse96 {
+  position: absolute;
+  left: 1291px;
+  top: 24px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon41 {
+  width: 100%;
+  height: 100%;
+}
+.n {
+  color: #fff;
+  font-size: 24px;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 96px;
+  top: 181px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse97 {
+  position: absolute;
+  left: 74px;
+  top: 162px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon42 {
+  width: 100%;
+  height: 100%;
+}
+.natalya2 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 176px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.n2 {
+  color: #fff;
+  font-size: 24px;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 96px;
+  top: 181px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle381 {
+  position: absolute;
+  left: 59px;
+  top: 141px;
+  width: 265px;
+  height: 774px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 2px 4px 30px 0px #0000001a;
+}
+.ellipse98 {
+  position: absolute;
+  left: 74px;
+  top: 162px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon43 {
+  width: 100%;
+  height: 100%;
+}
+.natalya3 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 176px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dashboard2 {
+  color: #3f08dd;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 335px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.notification2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 393px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jobs3 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 451px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jobsApplies2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 509px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.updatedJobs2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 567px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.schedule2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 625px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chatting2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 683px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.setting2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 741px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu2 {
+  color: #949494;
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81px;
+  top: 263px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle382 {
+  position: absolute;
+  left: 84px;
+  top: 329px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #7a4cfc;
+}
+.rectangle383 {
+  position: absolute;
+  left: 84px;
+  top: 387px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #ff5a5a;
+}
+.rectangle384 {
+  position: absolute;
+  left: 84px;
+  top: 445px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #82dd7a;
+}
+.rectangle385 {
+  position: absolute;
+  left: 84px;
+  top: 506px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #89affc;
+}
+.rectangle386 {
+  position: absolute;
+  left: 84px;
+  top: 561px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #b5e369;
+}
+.rectangle387 {
+  position: absolute;
+  left: 84px;
+  top: 621px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #fe983a;
+}
+.rectangle388 {
+  position: absolute;
+  left: 84px;
+  top: 677px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #5ed29b;
+}
+.rectangle389 {
+  position: absolute;
+  left: 84px;
+  top: 735px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8px;
+  background-color: #000;
+}
+.rectangle390 {
+  position: absolute;
+  left: 92px;
+  top: 336px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle391 {
+  position: absolute;
+  left: 102px;
+  top: 336px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle392 {
+  position: absolute;
+  left: 92px;
+  top: 346px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle393 {
+  position: absolute;
+  left: 102px;
+  top: 346px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.rectangle394 {
+  position: absolute;
+  left: 314px;
+  top: 325px;
+  width: 10px;
+  height: 42px;
+  overflow: visible;
+}
+.icon44 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse99 {
+  position: absolute;
+  left: 105px;
+  top: 495px;
+  width: 23px;
+  height: 23px;
+  overflow: visible;
+}
+.icon45 {
+  width: 100%;
+  height: 100%;
+}
+._52 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 113px;
+  top: 497px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.bellSimple2 {
+  position: absolute;
+  left: 90px;
+  top: 393px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon46 {
+  width: 100%;
+  height: 100%;
+}
+.swatches3 {
+  position: absolute;
+  left: 91px;
+  top: 451px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon47 {
+  width: 100%;
+  height: 100%;
+}
+.swatches4 {
+  position: absolute;
+  left: 91px;
+  top: 512px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon48 {
+  width: 100%;
+  height: 100%;
+}
+.chatCircleText2 {
+  position: absolute;
+  left: 90px;
+  top: 683px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon49 {
+  width: 100%;
+  height: 100%;
+}
+.gearSix7 {
+  position: absolute;
+  left: 90px;
+  top: 741px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon50 {
+  width: 100%;
+  height: 100%;
+}
+.headset2 {
+  position: absolute;
+  left: 90px;
+  top: 627px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon51 {
+  width: 100%;
+  height: 100%;
+}
+.userCircleGear2 {
+  position: absolute;
+  left: 90px;
+  top: 567px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon52 {
+  width: 100%;
+  height: 100%;
+}
+.n3 {
+  color: #fff;
+  font-size: 24px;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 96px;
+  top: 181px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse100 {
+  position: absolute;
+  left: 74px;
+  top: 162px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon53 {
+  width: 100%;
+  height: 100%;
+}
+.natalya4 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 176px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.n4 {
+  color: #fff;
+  font-size: 24px;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 96px;
+  top: 181px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.completProfile {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Petrona, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 82px;
+  top: 819px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.yourProfileWasDoneWith20 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 82px;
+  top: 868px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.completeYourProfileNow {
+  color: #837a7a;
+  font-size: 10px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 82px;
+  top: 888px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line3 {
+  position: absolute;
+  left: 82px;
+  top: 854px;
+  width: 205px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 2.5px #ebe9e9;
+}
+.line4 {
+  position: absolute;
+  left: 82px;
+  top: 854px;
+  width: 64px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 2.5px #7a4cfc;
+}
+.getTheBanksterJobSearchApp {
+  position: absolute;
+  left: 79px;
+  top: 1526px;
+  width: 462px;
+  height: 118px;
+  flex-direction: column;
+}
+.textBlock39 {
+  color: #000;
+  font-size: 48px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock40 {
+  margin-top: 0;
+  color: #000;
+  font-size: 48px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock41 {
+  margin-top: 0;
+  color: #000;
+  font-size: 48px;
+  font-weight: 500;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.searchThroughMillionsOfJobsAnd {
+  color: #6d6262;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 1662px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.googleplay_altLogo {
+  position: absolute;
+  left: 853px;
+  top: 1582px;
+  width: 231px;
+  height: 67px;
+}
+.icon54 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle3812 {
+  position: absolute;
+  left: 1123px;
+  top: 1582px;
+  width: 231px;
+  height: 68px;
+  border-radius: 10px;
+  background-color: #000;
+}
+.downloadOnThe {
+  color: #fff;
+  font-size: 16px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1193px;
+  top: 1594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.appleStore {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1193px;
+  top: 1618px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.path4 {
+  position: absolute;
+  left: 79.5833%;
+  right: 18.75%;
+  top: 76.7464%;
+  bottom: 21.9139%;
+  overflow: visible;
+}
+.icon55 {
+  width: 100%;
+  height: 100%;
+}
+.checks {
+  position: absolute;
+  left: 1025px;
+  top: 787px;
+  width: 23px;
+  height: 23px;
+  overflow: visible;
+}
+.icon56 {
+  width: 100%;
+  height: 100%;
+}
+.checks2 {
+  position: absolute;
+  left: 1026px;
+  top: 876px;
+  width: 23px;
+  height: 23px;
+  overflow: visible;
+}
+.icon57 {
+  width: 100%;
+  height: 100%;
+}
